@@ -25,14 +25,7 @@ This project focuses on the classification of iris species into one of three spe
 ## Conclusion
 The analysis underscored the effectiveness of petal measurements over sepal measurements for predicting iris species. Among the models evaluated, Support Vector Machine (SVM) emerged as the top performer in terms of accuracy and computational efficiency. This outcome emphasizes SVM's robustness and its capability to handle nonlinear data through the kernel trick, making it exceptionally suited for the classification of iris species based on petal dimensions. The SVM model's superior performance showcases its adaptability and efficiency in leveraging the dataset's features to distinguish between the species accurately.
 
-
-## Contributing
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page] if you want to contribute.
-
-## License
-[Specify the license or indicate 'MIT License' or another open-source license if applicable.]
-
 ## Acknowledgments
 - Iris Dataset from the UCI Machine Learning Repository.
-- [Any other acknowledgments]
+
 
